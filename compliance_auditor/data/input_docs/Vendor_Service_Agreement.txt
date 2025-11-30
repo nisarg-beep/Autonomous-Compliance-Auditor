@@ -1,0 +1,21 @@
+SERVICE LEVEL AGREEMENT
+Between: ACME Corp (Client) and FastTech Solutions (Vendor)
+Date: Nov 30, 2025
+
+SCOPE OF SERVICES
+FastTech Solutions agrees to provide cloud hosting maintenance services as described in Exhibit A.
+
+FEES AND PAYMENT
+Total Annual Contract Value: $150,000.
+Invoices shall be submitted monthly.
+Client shall pay all undisputed invoices within Net 90 days of receipt. [VIOLATION 1: Policy allows max 60 with approval, standard 45]
+
+LIMITATION OF LIABILITY
+The total liability of FastTech Solutions for any claim arising out of this agreement shall be limited to the fees paid by Client in the preceding three (3) months (approx. $37,500). [VIOLATION 2: Policy requires 2x annual value or $1M]
+
+GOVERNING LAW
+This Agreement shall be governed by the laws of the State of California. [VIOLATION 3: Policy requires New York]
+Any disputes shall be resolved in San Francisco, CA.
+
+MISCELLANEOUS
+This agreement constitutes the entire understanding between the parties.

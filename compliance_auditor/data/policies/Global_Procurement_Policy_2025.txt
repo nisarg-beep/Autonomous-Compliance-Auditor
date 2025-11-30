@@ -1,0 +1,20 @@
+GLOBAL PROCUREMENT POLICY
+Version: 2.1
+Effective Date: Jan 1, 2025
+
+PAYMENT TERMS
+Standard payment terms for all vendors are Net 45 days from the receipt of a valid invoice.
+Any terms exceeding 60 days require explicit written approval from the CFO.
+Under no circumstances shall payment terms exceed 90 days.
+
+LIABILITY AND INDEMNIFICATION
+2.1 Liability Cap: The Vendor's liability shall not be limited to less than two times (2x) the total annual contract value or $1,000,000, whichever is greater.
+2.2 Indemnification: Vendor agrees to indemnify the Company against any third-party claims arising from intellectual property infringement or data breaches.
+
+GOVERNING LAW
+All contracts shall be governed by and construed in accordance with the laws of the State of New York.
+Arbitration clauses are permitted but must be conducted in New York City.
+
+DATA PRIVACY
+All vendors processing employee or customer data must be ISO 27001 certified.
+Data must be encrypted at rest and in transit.
